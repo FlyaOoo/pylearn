@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f50d4a5d-e60c-4a17-a7b6-93baafd71ee6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iAwqqvbyIA4VsOT0j20Wdw6i2I" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.global_variable_stuff" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f50d4a5d-e60c-4a17-a7b6-93baafd71ee6" name="Default Changelist" comment="" />
+      <created>1601363897276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601363897276</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="245" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601365151366">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="245" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1601365151366" />
+    <state x="394" y="273" key="#global_variable_stuff" timestamp="1601365174016">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="394" y="273" key="#global_variable_stuff/0.0.1792.1120@0.0.1792.1120" timestamp="1601365174016" />
+    <state width="1408" height="274" key="GridCell.Tab.0.bottom" timestamp="1601365416994">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1408" height="274" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1601365416994" />
+    <state width="1408" height="274" key="GridCell.Tab.0.center" timestamp="1601365416994">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1408" height="274" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1601365416994" />
+    <state width="1408" height="274" key="GridCell.Tab.0.left" timestamp="1601365416993">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1408" height="274" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1601365416993" />
+    <state width="1408" height="274" key="GridCell.Tab.0.right" timestamp="1601365416994">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1408" height="274" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1601365416994" />
+  </component>
+</project>
